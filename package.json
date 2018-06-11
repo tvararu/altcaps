@@ -1,13 +1,13 @@
 {
-  "name": "altcaps",
+  "name": "altspaces",
   "version": "0.0.6",
-  "description": "Alternating caps, like a myspace teenager from 2001.",
+  "description": "A d d s  s p a c e s  b e t w e e n  e v e r y  c h a r a c t e r",
   "main": "index.js",
   "dependencies": {
     "concat-stream": "~1.4.1"
   },
   "bin": {
-    "altcaps": "./index.js"
+    "altspaces": "./index.js"
   },
   "devDependencies": {},
   "scripts": {
@@ -15,18 +15,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/brianloveswords/altcaps.git"
+    "url": "git://github.com/tvararu/altspaces.git"
   },
   "keywords": [
     "alt",
-    "caps",
+    "spaces",
     "alternating",
-    "capitals"
+    "aesthetic"
   ],
   "author": "Brian J Brennan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/brianloveswords/altcaps/issues"
+    "url": "https://github.com/tvararu/altspaces/issues"
   },
-  "homepage": "https://github.com/brianloveswords/altcaps"
+  "homepage": "https://github.com/tvararu/altspaces"
 }

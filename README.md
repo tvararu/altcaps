@@ -1,8 +1,12 @@
-# Just `npm install -g altcaps`
+# Based on [altcaps](https://github.com/brianloveswords/altcaps) by [brianloveswords](https://github.com/brianloveswords)
 
-## then `echo 'lol whatever' | altcaps | pbcopy`
+---
 
-### or `altcaps < your-stupid-file.txt | pbcopy`
+# Just `npm install -g altspaces`
+
+## then `echo 'lol whatever' | altspaces | pbcopy`
+
+### or `altspaces < your-stupid-file.txt | pbcopy`
 
 #### the internet
 
