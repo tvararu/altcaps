@@ -5,11 +5,11 @@ function altspaces(words) {
 }
 
 if (!module.parent) {
-  const concat = require("concat-stream");
+  let emitSpace = false;
+  process.stdin.on("data", function(data) {
+    if (emitSpace) { process.stdout.write(" "); }
+    process.stdout.write(altspaces(data.toString()));
+    emitSpace = true;
+  })
   process.stdin.resume();
-  process.stdin.pipe(
-    concat(function(data) {
-      process.stdout.write(altspaces(data.toString()));
-    })
-  );
 }
