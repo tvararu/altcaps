@@ -1,6 +1,6 @@
 {
   "name": "altspaces",
-  "version": "0.0.6",
+  "version": "0.0.1",
   "description": "A d d s  s p a c e s  b e t w e e n  e v e r y  c h a r a c t e r",
   "main": "index.js",
   "dependencies": {
@@ -23,7 +23,7 @@
     "alternating",
     "aesthetic"
   ],
-  "author": "Brian J Brennan",
+  "author": "Theodor Vararu",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/tvararu/altspaces/issues"
