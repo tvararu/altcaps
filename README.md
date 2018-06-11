@@ -1,15 +1,15 @@
-# Based on [altcaps](https://github.com/brianloveswords/altcaps) by [brianloveswords](https://github.com/brianloveswords)
+```
+#   B a s e d   o n   [ a l t c a p s ] ( h t t p s : / / g i t h u b . c o m / b r i a n l o v e s w o r d s / a l t c a p s )   b y   [ b r i a n l o v e s w o r d s ] ( h t t p s : / / g i t h u b . c o m / b r i a n l o v e s w o r d s )
 
----
+- - -
 
-# Just `npm install -g altspaces`
+#   J u s t   ` n p m   i n s t a l l   - g   a l t s p a c e s `
 
-## then `echo 'lol whatever' | altspaces | pbcopy`
+# #   t h e n   ` e c h o   ' l o l   w h a t e v e r '   |   a l t s p a c e s   |   p b c o p y `
 
-### or `altspaces < your-stupid-file.txt | pbcopy`
+# # #   o r   ` a l t s p a c e s   <   y o u r - s t u p i d - f i l e . t x t   |   p b c o p y `
 
-#### the internet
+# # # #   a e s t h e t i c s
 
-##### it's that simple.
-
-![image](https://i.cloudup.com/e2OHmhsqAH-2000x2000.png)
+# # # # #   i t ' s   t h a t   s i m p l e .
+```
