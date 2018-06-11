@@ -3,9 +3,7 @@
   "version": "0.0.1",
   "description": "A d d s  s p a c e s  b e t w e e n  e v e r y  c h a r a c t e r",
   "main": "index.js",
-  "dependencies": {
-    "concat-stream": "~1.4.1"
-  },
+  "dependencies": {},
   "bin": {
     "altspaces": "./index.js"
   },
